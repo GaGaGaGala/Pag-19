@@ -1,6 +1,20 @@
 body {
-    background-colors: aqua;
-
+    background-color: white;
+}
+.page-1 {
+background-color: lime;
+}
+.page-2 {
+background-color: aqua;
+}
+.page-3 {
+background-color: lightblue;
+}
+.page-4 {
+background-color: lightgreen;
+}
+.page-5 {
+background-color: lightcoral;
 }
 h1 {
     text-align: center;
